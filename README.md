@@ -20,7 +20,7 @@ numpy
 plotly
 ```
 
-### Installation (on terminal)
+### Installation (with the terminal)
 1. Clone this repository (or download the .zip file in the main page):
    ```
    git clone https://github.com/Wolfbanus/CF2-python-playground.git
@@ -31,7 +31,7 @@ plotly
 
    ```
 ### Usage
-Simply run the Python script:
+Simply run the Python script with the terminal in the same folder as the .py file:
 ```python
 python3 particle_in_a_box.py
 ```
