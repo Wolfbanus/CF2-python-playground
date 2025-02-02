@@ -14,16 +14,16 @@ This Python script simulates and visualizes the quantum mechanical behavior of a
 
 ### Prerequisites
 
-To run this simulation, you'll need the following Python packages:
+To run this simulation, you'll need Python and the following Python packages:
 ```python
 numpy
 plotly
 ```
 
-### Installation
-1. Clone this repository:
+### Installation (on terminal)
+1. Clone this repository (or download the .zip file in the main page):
    ```
-   git clone 
+   git clone https://github.com/Wolfbanus/CF2-python-playground.git
    ```
 2. Install the required packages:
    ```python
